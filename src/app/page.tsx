@@ -10,9 +10,9 @@ const videos = [
   },
   {
     id: 2,
-    title: '作成中（URLデコーダー',
+    title: 'URLエンコーダー / デコーダー',
     thumbnailUrl: '/assets/2.jpg',
-    videoId: '#',
+    videoId: 'https://utils.gynga.org/',
   },
 ];
 
