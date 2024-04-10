@@ -14,6 +14,18 @@ const videos = [
     thumbnailUrl: '/assets/2.jpg',
     videoId: 'https://utils.gynga.org/',
   },
+  {
+    id: 3,
+    title: '（開発中）json prettier',
+    thumbnailUrl: '/assets/3.jpg',
+    videoId: '#',
+  },
+  {
+    id: 4,
+    title: '（開発中）UNIXTIME / UNIX時間',
+    thumbnailUrl: '/assets/4.jpg',
+    videoId: '#',
+  },
 ];
 
 const Home = () => {
